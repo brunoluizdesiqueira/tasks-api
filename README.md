@@ -32,4 +32,5 @@ Simple task management api developed with the following technologies
   ```yarn start```
 
   * Watch mode:
+  
   ```yarn start:dev```
