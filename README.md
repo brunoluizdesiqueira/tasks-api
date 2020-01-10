@@ -1,6 +1,6 @@
 # tasks-api
 Simple task management api developed with the following technologies 
-  - NestJs 
+  - NestJs (Express)
   - TypeScript
   - MongoDB
 
@@ -32,5 +32,11 @@ Simple task management api developed with the following technologies
   ```yarn start```
 
   * Watch mode:
-  
+
   ```yarn start:dev```
+
+  ## Commands Nest CLI
+
+  ```nest g controller tasks```
+  ```nest g provider tasks/shared/task.service```
+  ```nest g nest g module tasks```
