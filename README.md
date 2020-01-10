@@ -38,5 +38,7 @@ Simple task management api developed with the following technologies
   ## Commands Nest CLI
 
   ```nest g controller tasks```
+
   ```nest g provider tasks/shared/task.service```
+  
   ```nest g nest g module tasks```
