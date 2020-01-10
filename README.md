@@ -23,6 +23,13 @@ Simple task management api developed with the following technologies
 
 *  Creating new project with Nest CLI
 
-  * yarn add global @nestjs/cli
+  ```yarn add global @nestjs/cli```
 
-  * nest new tasks-api
+  ```nest new tasks-api```
+
+ ## Run It
+
+  ```yarn start```
+
+  * Watch mode:
+  ```yarn start:dev```
