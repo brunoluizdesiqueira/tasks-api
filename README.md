@@ -44,3 +44,7 @@ Simple task management api developed with the following technologies
   ```nest g nest g module tasks```
 
   ```nest g nest g class tasks/shared```
+
+ ## Install dependencies
+ 
+  ```yarn add @nestjs/mongoose mongoose```
