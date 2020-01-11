@@ -42,3 +42,5 @@ Simple task management api developed with the following technologies
   ```nest g provider tasks/shared/task.service```
   
   ```nest g nest g module tasks```
+
+  ```nest g nest g class tasks/shared```
